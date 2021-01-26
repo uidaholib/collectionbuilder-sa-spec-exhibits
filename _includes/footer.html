@@ -1,21 +1,21 @@
-<footer class="bg-dark pt-4 container-fluid {% unless page.layout=='map' %}mt-3{% endunless %}">
+<footer class="bg-dark pt-4 container-fluid mt-3">
 
     <div class="row border-bottom border-white pb-4 mb-2">
 
-        <div class="col-md-7  px-4 mt-2">
+        <div class="col-md-7 px-4 mt-2 mb-4">
 
             <h4><a href="{{ '/' | absolute_url }}" class="text-white font-weight-normal">{{ site.title }}</a></h4>
             <p class="text-white"><small>{{ site.description }}</small></p>
             <nav>
-                <ul class="nav nav-pills ">
+                <ul class="nav">
                     {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
                     {% for nav in navItems %}
                     <li class="nav-item">
                     {% if nav.stub %}
-                        <a class="nav-link text-light{% if page.url == nav.stub %} active{% endif %}" href="{{ nav.stub | relative_url }}">{{ nav.display_name }}</a>
+                        <a class="nav-link text-info{% if page.url == nav.stub %} text-underline active{% endif %}" href="{{ nav.stub | relative_url }}">{{ nav.display_name }}</a>
                     {%- else -%}
                     {% assign childStub = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nav.display_name' | first %}
-                        <a class="nav-link text-light{% if page.url == childStub.stub %} active{% endif %}" href="{{ childStub.stub | relative_url }}">{{ nav.display_name }}</a>
+                        <a class="nav-link text-info{% if page.url == childStub.stub %} text-underline active{% endif %}" href="{{ childStub.stub | relative_url }}">{{ nav.display_name }}</a>
                     {% endif %}
                     </li>
                     {%- endfor -%}
@@ -24,27 +24,19 @@
 
         </div>
 
-        <div class="col-md-5 mt-2 text-right">
-
-            <p class="text-right">
-                <a href="{{ site.organization-link }}" target="_blank" rel="noopener">
-                    <img class="img-fluid" src="{{ site.organization-logo-nav | relative_url }}" alt="{{ site.organization-name }} home">
-                </a>
-            </p>
-            <p class="text-white" id="footer-credits">
-                <small><em>built with</em>
-                    <a href="https://collectionbuilder.github.io/" target="_blank" rel="noopener" title="CollectionBuilder">
-                        <img src="{{ '/assets/img/collectionbuilder-logo.png' | relative_url }}" class="img-fluid" alt="CollectionBuilder home" >
-                    </a>
-                </small>
-            </p>
-
+        <div class="col-md-5">
+            <div class="row justify-content-center justify-content-md-end">
+                <div class="col-8 col-sm-6 col-md-8 col-xl-6 m-2">
+                    <a href="https://www.lib.uidaho.edu/"><img alt="University of Idaho Library home" src="https://www.lib.uidaho.edu/media/digital/liblogo_transparent.png" class="img-fluid"></a>
+                </div>
+            </div>
         </div>
 
     </div>
 
     <div class="col-md-12 text-center pt-3 pb-1">
-        <p class="text-white">Last updated {{ site.time | date: '%Y' }}</p>
+        <a href="https://www.lib.uidaho.edu/digital/"><img class="img-fluid mb-2 footer-diginit" src="https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png" alt="University of Idaho Library Digital Initiatives home"></a>
+        <p class="text-white h6"><em></em>Collection last updated: {{ site.time | date: '%Y' }}</em></p>
     </div>
 
 </footer>
