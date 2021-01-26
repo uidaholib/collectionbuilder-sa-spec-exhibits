@@ -2,13 +2,18 @@ field,display_name,browse_link,dc_map,schema_map
 title,Title,,DCTERMS.title,headline
 creator,Creator,,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
+date_is_approximate,Date is approximate?,
 description,Description,,DCTERMS.description,description
 subject,Subjects,true,DCTERMS.subject,keywords
 location,Location,,,contentLocation
 latitude,Latitude
 longitude,Longitude
+digital_collection,Digital Collection,
 source,Source
 identifier,Source Identifier
+digital_source,Digital Source,
+format_original,Original Format,
 type,Type,,DCTERMS.type
 format,Format,,,encodingFormat
+rights,Rights,
 rightsstatement,,,DCTERMS.rights,license
