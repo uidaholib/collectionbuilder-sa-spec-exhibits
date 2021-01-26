@@ -35,8 +35,7 @@ layout: page
         </th>
         <td>
             {%- assign inYear = items | where_exp: 'item', 'item.date contains year' -%}
-            {% for item in inYear %}<div class="row">
-                {%- assign inYear = items | where_exp: 'item', 'item.date contains year' -%}
+            <div class="row">
                 {% for item in inYear %}
                 <div class="col-lg-4 col-md-6">
                     <a href="{{ '/items/' | absolute_url | append: item.objectid | append: '.html' }}" >
@@ -55,7 +54,7 @@ layout: page
                     </a>
                 </div>
                 {% endfor %}
-            {% endfor %}
+            </div>
         </td>
     </tr>
     {% endfor %}
