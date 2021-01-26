@@ -15,7 +15,7 @@ function makeCard(obj) {
     } else if (obj.format.includes("audio")) {
       thumbSrc = '{{ "/assets/icons/file-play.svg" | relative_url }}';
     } else if (obj.format.includes("pdf")) {
-      thumbSrc = '{{ "/assets/icons/file-richtext.svg" | relative_url }}';
+      thumbSrc = obj.filename;
     } else {
         var thumbSrc = obj.filename;
     }
