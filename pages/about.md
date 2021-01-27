@@ -7,7 +7,7 @@ permalink: /about.html
 
 {% include feature/nav-menu.html sections="About the Collection" %} 
  
-December 7, 1941 the Japanese military bombed Pearl Harbor thus pulling the United States into World War II. Entering the war had drastic and unforeseen consequences on many living in the country. Not only were many people now preparing for war, but a sector of the population saw their rights infringed upon and were forced to relocate from their homes. Deemed a potential threat to the security of the United States, Italian and German immigrants, as well as those of Japanese ancestry living on the West Coast were relocated to incarceration and internment camps further inland, two of which were located in Idaho. Though Italian and German immigrants were also targeted, those of Japanese ancestry, including many American citizens, received harsher treatment. 
+December 7, 1941 the Japanese military bombed Pearl Harbor thus pulling the United States into World War II. Entering the war had drastic and unforeseen consequences on many living in the country. Not only were many people now preparing for war, but a sector of the population saw their rights infringed upon and were forced to relocate from their homes. Deemed a potential threat to the security of the United States, Italian and German immigrants, as well as those of Japanese ancestry living on the West Coast were relocated to incarceration and internment camps further inland, two of which were located in Idaho. Though Italian and German immigrants were also targeted, those of Japanese ancestry, including many American citizens, faced relocation in larger numbers. 
 
 This initial act of war not only had a direct impact on those of Japanese ancestry living on the West Coast, but would lead to the use of the atomic bomb on two Japanese cities, ultimately ending the war with Japan. After the war those who were forced from their homes in the United States had to readjust to life, many had lost their homes and possessions do to their incarceration and were concerned about returning home. Those hurt by the atomic bomb in Japan also had to rebuild and move on from the atrocities of war. 
 
@@ -23,24 +23,29 @@ Executive Order 9066 was followed by several public proclamations made by Lieute
 
 ## Japanese Relocation to Idaho
 
-Approximately 120,000 Issei and Nisei were affected by the forced relocation set into action by Genearl DeWitt. Evacuees were ordered to report to temporary detention centers, called assembly centers. There were 15 assembly centers total spread throughout Washington, Oregon, California, and Arizona. Operated by the War Relocation Authority (WRA) the assembly centers were located on fairgrounds, horse tracks, and other makeshift facilities. While living in these centers, evacuees often faced food shortages and unsanitary conditions. For months, evacuees lived in these conditions until more permanent detention centers, called relocation centers, were finished being constructed further inland. These more permanent camps began receiving evacuees in May 1942, with the final transfer to relocation centers occurring in October 1942. [^3]
+Approximately 120,000 Issei and Nisei were affected by the forced relocation set into action by General DeWitt. Evacuees were ordered to report to temporary detention centers, called assembly centers. There were 15 assembly centers total spread throughout Washington, Oregon, California, and Arizona. Operated by the War Relocation Authority (WRA) the assembly centers were located on fairgrounds, horse tracks, and other makeshift facilities. While living in these centers, evacuees often faced food shortages and unsanitary conditions. For months, evacuees lived in these conditions until more permanent detention centers, called relocation centers, were finished being constructed further inland. These more permanent camps began receiving evacuees in May 1942, with the final transfer to relocation centers occurring in October 1942. [^3]
 
 ### Minidoka 
 
-Idaho was home to one WRA relocation center in southern Idaho, near Hunt. The Minidoka War Relocation Center extended over 33,000 acres with 900 of those acres used to house the 13,000 individuals incarcerated there. The remaining land was used either for administrative work or agriculture. Situated in a high-desert, the environmental conditions of Minidoka were challenging. Most internees wer from the Pacific Northwest and did not have the appropriate clothing for the harsh winters and summers of southern Idaho.[^4]
+Idaho was home to one WRA relocation center in southern Idaho, near Hunt. The Minidoka War Relocation Center extended over 33,000 acres with 900 of those acres used to house, at it's peak approximately 9400 individuals incarcerated there. The remaining land was used either for administrative work or agriculture. [^4]
+
+When the first incarcerees arrived at Minidoka in August 1942, the construction of the camp was not finished, there was no running water and a sewage system had not been installed. Those who arrived were discouraged and unhappy with their living conditions. Families faced cramped living quarters with it being common for a family of 8 or 9 people living in a one bedroom apartment. Beyond that, the camp was situated in a high-desert climate. The majority of the incarcerees were from the Pacific Northwest and were not prepared for the harsh winters and summers of southern Idaho. Even with these conditions, incarcerees worked to improve the camp conditions by planting trees, flowers, and shrubs to beautify the camp, as well as keeping gardens for fresh produce. 
+
+The camp closed in October 1945 and the land was later offered for homesteading to veterans. Today, much of the former site is occupied by farmhouses and irrigated fields, but in 2001 72-acres of the site was established as teh Minidoka National Historic Site. It's purpose today is to educate the public about the experiences of incarcerees to ensure a smiliar experience doesn't happen again.[^5]
+
 
 ### Kooskia 
 
-While the WRA operated several relocation centers throughout the country, the Immigration and Nationalization Service (INS) operated several internment camps, including one near Kooskia, Idaho. Unlike the relocation centers, these internment camps were used to detain "enemy aliens." These "enemy aliens" had been identified as potentially dangerous to national security, though many of the individuals were detained with little evidence to suggest they posed a threat to the United States.[^5] 
+While the WRA operated several relocation centers throughout the country, the Immigration and Nationalization Service (INS) operated several internment camps, including one near Kooskia, Idaho. Unlike the relocation centers, these internment camps were used to detain "enemy aliens." These "enemy aliens" had been identified as potentially dangerous to national security, though many of the individuals were detained with little evidence to suggest they posed a threat to the United States.[^6] 
 
-The Kooskia Internment Camp was located at the confluence of Canyon Creek and the Lochsa River in northern Idaho. Detainees at the camp were made up of volunteers from other detention camps and most worked construction on a portion of the Lewis and Clark Highway between Lewiston, Idaho and Missoula, Montana. The Kooskia Camp operated from May 1943 to May 1945 and saw 265 Japanese aliens make their way through.[^6] Learn more about the Kooskia Interment Camp from our [Kooskia Internment Camp Scrapbook](https://www.lib.uidaho.edu/digital/kooskia/about.html) digital collection.   
+The Kooskia Internment Camp was located at the confluence of Canyon Creek and the Lochsa River in northern Idaho. Detainees at the camp were made up of volunteers from other detention camps and most worked construction on a portion of the Lewis and Clark Highway between Lewiston, Idaho and Missoula, Montana. The Kooskia Camp operated from May 1943 to May 1945 and saw 265 Japanese aliens make their way through.[^7] Learn more about the Kooskia Interment Camp from our [Kooskia Internment Camp Scrapbook](https://www.lib.uidaho.edu/digital/kooskia/about.html) digital collection.   
 
 
 {% include feature/item-figure.html objectid="hiroshima044" width="75" caption="Sign for the Japanese Internment camp located near Kooskia, Idaho" %}
 
 ## Japanese Students and the University of Idaho
 
-In March 1942, a month after Executive Order 9066 was enacted, and as Lieutenant General Dewitt began releasing public proclamations limiting the rights of the Issei and Nisei in militarized zones, students and educators alike questioned whether Nisei students would be able to finish their eduction. Several universities within the militarized zones had a large number of Nisei students. Both Lee Paul Sieg, president of the University of Washington, and Robert Gordon Sproul, president of the University of California, Berkley, spoke out against the relocation of students and worked to find ways to allow students to finish their studies [^7]
+In March 1942, a month after Executive Order 9066 was enacted, and as Lieutenant General Dewitt began releasing public proclamations limiting the rights of the Issei and Nisei in militarized zones, students and educators alike questioned whether Nisei students would be able to finish their eduction. Several universities within the militarized zones had a large number of Nisei students. Both Lee Paul Sieg, president of the University of Washington, and Robert Gordon Sproul, president of the University of California, Berkley, spoke out against the relocation of students and worked to find ways to allow students to finish their studies [^8]
 
 {% include feature/item-figure.html objectid="hiroshima059"  %}
 
@@ -58,7 +63,7 @@ Due to the controversy that arose from the newspaper's false claims and the cens
 
 ## The Atomic Bomb and End of the War
 
-On July 26, 1945 after nearly 3 years of war with Japan, President Harry S. Truman and the other leaders of the Allied forces gave a final warning to Japan in the Potsdam Declaration, calling for unconditional surrender or Japan would face "prompt and utter destruction."[^8] When Japan had not surrendered a week later the United States took action. On August 6, 1945 the United States dropped an atomic bomb on the city of Hiroshima. With an estimated population of 280,000 people, the initial explosion killed approximately 80,000 in a matter of minutes, leveling the city.[^9] Three days later, the United States made another attack, this time on Nagasaki, where approximately 75,000 people died immediately. In the following months, the two cities saw between 95,000 and 171,000 more deaths due to the bomb. The city of Hiroshima estimates that nearly 240,000 people were ultimately killed by the bombing of their city, either directly or indirectly.[^10] On August 14, Japan accepted the terms set forth in the Potsdam Declaration, officially signing the instrument of surrender on September 2, 1945, ending the war with Japan.[^11]
+On July 26, 1945 after nearly 3 years of war with Japan, President Harry S. Truman and the other leaders of the Allied forces gave a final warning to Japan in the Potsdam Declaration, calling for unconditional surrender or Japan would face "prompt and utter destruction."[^9] When Japan had not surrendered a week later the United States took action. On August 6, 1945 the United States dropped an atomic bomb on the city of Hiroshima. With an estimated population of 280,000 people, the initial explosion killed approximately 80,000 in a matter of minutes, leveling the city.[^10] Three days later, the United States made another attack, this time on Nagasaki, where approximately 75,000 people died immediately. In the following months, the two cities saw between 95,000 and 171,000 more deaths due to the bomb. The city of Hiroshima estimates that nearly 240,000 people were ultimately killed by the bombing of their city, either directly or indirectly.[^11] On August 14, Japan accepted the terms set forth in the Potsdam Declaration, officially signing the instrument of surrender on September 2, 1945, ending the war with Japan.[^12]
 
 {% include feature/item-figure.html objectid="hiroshima020;hiroshima11" width="50"  caption="Northern sector as viewed from City Hall (unidentified city);Destroyed industrial area showing smoke stacks still standing. 0.51 mile from ground zero at Nagasaki"  %}
 
@@ -74,7 +79,7 @@ Though, as Morito pointed out, his request would not have a large economic impac
 
 ## Advocating for Peace at the University of Idaho
 
-Even before receiving President Morito's letter, the University of Idaho has had a similar view in how to promote peace. Now called the Borah Foundation, in 1929 the William Borah Outlawry of War Foundation was established to honor and continue the work of Idaho Senator William Borah on behalf of peace. Nearly since it's inception, the Borah Foundation has regularly held programs to educate and advocate for peace in the world. The first program brought peace and human rights advocate Eleanor Roosevelt to campus which culminated with the planitng of a tree on the university campus, one that still stands today. Over the years, the Foundation has continued to holding programs devoted to understanding the causes of war and how to establish a lasting peace through the annual Borah Symposium. This has often culminated in the planting of trees in the University of Idaho Arboretum which now make up the Borah International Peace Grove. [^12]
+Even before receiving President Morito's letter, the University of Idaho has had a similar view in how to promote peace. Now called the Borah Foundation, in 1929 the William Borah Outlawry of War Foundation was established to honor and continue the work of Idaho Senator William Borah on behalf of peace. Nearly since it's inception, the Borah Foundation has regularly held programs to educate and advocate for peace in the world. The first program brought peace and human rights advocate Eleanor Roosevelt to campus which culminated with the planitng of a tree on the university campus, one that still stands today. Over the years, the Foundation has continued to holding programs devoted to understanding the causes of war and how to establish a lasting peace through the annual Borah Symposium. This has often culminated in the planting of trees in the University of Idaho Arboretum which now make up the Borah International Peace Grove. [^13]
 
 {% include feature/item-figure.html objectid="hiroshima048;hiroshima049"    %}
 
@@ -84,28 +89,30 @@ Even before receiving President Morito's letter, the University of Idaho has had
 
 ## References
 
-[^1]:  [The Incarceration of Japanese-Americans during World War II](https://www.atomicheritage.org/history/incarceration-japanese-americans-during-world-war-ii), The Atomic Heritage Foundation, https://www.atomicheritage.org/history/incarceration-japanese-americans-during-world-war-ii. Accessed 15 September 2020.
+[^1]:  [The Incarceration of Japanese-Americans during World War II](https://perma.cc/5JDT-NZ9C), The Atomic Heritage Foundation, https://www.atomicheritage.org/history/incarceration-japanese-americans-during-world-war-ii. Accessed 15 September 2020.
 
-[^2]: [Japanese-American Internment During World War II](https://www.archives.gov/education/lessons/japanese-relocation), National Archives and Records Administration (NARA), https://www.archives.gov/education/lessons/japanese-relocation. Accessed 22 September 2020.
+[^2]: [Japanese-American Internment During World War II](https://perma.cc/34JB-EZ5Y), National Archives and Records Administration (NARA), https://www.archives.gov/education/lessons/japanese-relocation. Accessed 22 September 2020.
 
-[^3]: [Assembly Centers](https://encyclopedia.densho.org/Assembly_centers/#:~:text=%22Assembly%20centers%22%20were%20makeshift%20concentration,more%20permanent%20inland%20concentration%20camps.), Densho Encyclopedia, https://encyclopedia.densho.org/Assembly_centers/#:~:text=%22Assembly%20centers%22%20were%20makeshift%20concentration,more%20permanent%20inland%20concentration%20camps. Accessed 19 January 2021.
+[^3]: [Assembly Centers](https://perma.cc/CU2W-ATHN), Densho Encyclopedia, https://encyclopedia.densho.org/Assembly_centers/#:~:text=%22Assembly%20centers%22%20were%20makeshift%20concentration,more%20permanent%20inland%20concentration%20camps. Accessed 19 January 2021.
  
-[^4]: [Life at Minidoka](https://www.nps.gov/miin/learn/historyculture/life-at-minidoka.htm) National Park Service, https://www.nps.gov/miin/learn/historyculture/life-at-minidoka.htm. Accessed 19 January 2021.
+[^4]: [Life at Minidoka](https://perma.cc/EWJ2-K45T) National Park Service, https://www.nps.gov/miin/learn/historyculture/life-at-minidoka.htm. Accessed 19 January 2021.
 
-[^5]: Wegars, Priscilla., et al. Imprisoned in Paradise : Japanese Internee Road Workers at the World War II Kooskia Internment Camp. Asian American Comparative Collection, University of Idaho, 2010.
+[^5]: [Japanese American Incarceration during World War II](https://perma.cc/7962-PWMB) Friends of Minidoka, http://www.minidoka.org/history-world-war-two-internment. Accessed 27 January 2021.
 
-[^6]: [Kooskia Internment Scrapbook](https://www.lib.uidaho.edu/digital/kooskia/about.html) About the Camp, https://www.lib.uidaho.edu/digital/kooskia/about.html. Accessed 20 January 2021.
+[^6]: Wegars, Priscilla., et al. Imprisoned in Paradise : Japanese Internee Road Workers at the World War II Kooskia Internment Camp. Asian American Comparative Collection, University of Idaho, 2010.
 
-[^7]: Okihiro, Gary Y., and Ito, Leslie A. Storied Lives : Japanese American Students and World War II. University of Washington Press, 1999.
+[^7]: [Kooskia Internment Scrapbook](https://perma.cc/TX9C-WAKZ) About the Camp, https://www.lib.uidaho.edu/digital/kooskia/about.html. Accessed 20 January 2021.
 
-[^8]: [Potsdam Declaration](https://www.atomicheritage.org/key-documents/potsdam-declaration), Atomic Heritage Foundation, https://www.atomicheritage.org/key-documents/potsdam-declaration. Accessed 1 October 2020.
+[^8]: Okihiro, Gary Y., and Ito, Leslie A. Storied Lives : Japanese American Students and World War II. University of Washington Press, 1999.
 
-[^9]: [Fact File : Hiroshima and Nagasaki](https://www.bbc.co.uk/history/ww2peopleswar/timeline/factfiles/nonflash/a6652262.shtml#:~:text=On%20the%20morning%20of%206,80%2C000%20people%20were%20killed%20instantly), WW2 People's War, https://www.bbc.co.uk/history/ww2peopleswar/timeline/factfiles/nonflash/a6652262.shtml#:~:text=On%20the%20morning%20of%206,80%2C000%20people%20were%20killed%20instantly. Accessed 1 October 2020. 
+[^9]: [Potsdam Declaration](https://perma.cc/X3W3-LLWC), Atomic Heritage Foundation, https://www.atomicheritage.org/key-documents/potsdam-declaration. Accessed 1 October 2020.
 
-[^10]: [Bombings of Hiroshima and Nagasaki - 1945](https://www.atomicheritage.org/history/bombings-hiroshima-and-nagasaki-1945), Atomic Heritage Foundation, https://www.atomicheritage.org/history/bombings-hiroshima-and-nagasaki-1945. Accessed 1 October 2020.
+[^10]: [Fact File : Hiroshima and Nagasaki](https://perma.cc/56P7-596Q), WW2 People's War, https://www.bbc.co.uk/history/ww2peopleswar/timeline/factfiles/nonflash/a6652262.shtml#:~:text=On%20the%20morning%20of%206,80%2C000%20people%20were%20killed%20instantly. Accessed 1 October 2020. 
 
-[^11]: Hall, M. (2013, September 02). [By the Numbers: End of World War II](https://www.cnn.com/2013/09/02/world/btn-end-of-wwii/index.html), CNN, https://www.cnn.com/2013/09/02/world/btn-end-of-wwii/index.html. Accessed 1 October 2020
+[^11]: [Bombings of Hiroshima and Nagasaki - 1945](https://perma.cc/HT2T-LCJY), Atomic Heritage Foundation, https://www.atomicheritage.org/history/bombings-hiroshima-and-nagasaki-1945. Accessed 1 October 2020.
 
-[^12]: [About the Borah Foundation](https://www.uidaho.edu/class/borah/about), University of Idaho Borah Foundation & Symposium, https://www.uidaho.edu/class/borah/about. Accessed 22 October 2020.
+[^12]: Hall, M. (2013, September 02). [By the Numbers: End of World War II](https://perma.cc/SM49-ENVG), CNN, https://www.cnn.com/2013/09/02/world/btn-end-of-wwii/index.html. Accessed 1 October 2020
+
+[^13]: [About the Borah Foundation](https://perma.cc/R6BT-7FMG), University of Idaho Borah Foundation & Symposium, https://www.uidaho.edu/class/borah/about. Accessed 22 October 2020.
 
 {:mt-4 border-top}
