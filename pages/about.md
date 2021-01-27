@@ -15,7 +15,7 @@ This exhibit explores the impact that World War II had not only on those of Japa
 
 ## Executive Order 9066
 
-It had been reported to President Franklin D. Roosevelt in November 1941 that the majority of those with Japanese ancestry along the West Coast were loyal to the United States. Even with this report on February 19, 1942 President Roosevelt signed Executive Order 9066. This order allowed military commanders to exclude civilians from military zones, and ultimately resulted in the creation "relocation" centers for those of Japanese descent, both foreign born (Issei) and American citizens (Nisei).[^1]
+After some investigation, it had been reported to President Franklin D. Roosevelt in November 1941 that the majority of those with Japanese ancestry along the West Coast were loyal to the United States. Even with this report on February 19, 1942 President Roosevelt signed Executive Order 9066. This order allowed military commanders to exclude civilians from military zones, and ultimately resulted in the creation of "relocation" centers for those of Japanese descent, both foreign born (Issei) and American citizens (Nisei).[^1]
 
 Executive Order 9066 was followed by several public proclamations made by Lieutenant General John L. DeWitt of the Western Defense Command. The first two proclamations established six military areas along the West Coast. The third established a curfew for German and Italian immigrants, as well as anyone of Japanese ancestry. DeWitt then encouraged the voluntary evacuation of those with Japanese ancestry along the West Coast. This encouraged evacuation was soon followed, on March 29, 1942 by Public Proclamation No. 4, which began the forced evacuation of those who were of Japanese descent.[^2]
 
@@ -33,6 +33,7 @@ When the first incarcerees arrived at Minidoka in August 1942, the construction 
 
 The camp closed in October 1945 and the land was later offered for homesteading to veterans. Today, much of the former site is occupied by farmhouses and irrigated fields, but in 2001 72-acres of the site was established as the Minidoka National Historic Site. It's purpose today is to educate the public about the experiences of incarcerees to ensure a similar experience doesn't happen again.[^5]
 
+{% include feature/item-pdf-embed.html objectid="hiroshima093" %}
 
 ### Kooskia 
 
