@@ -66,7 +66,7 @@ Due to the controversy that arose from the newspaper's false claims and the cens
 
 On July 26, 1945 after nearly 3 years of war with Japan, President Harry S. Truman and the other leaders of the Allied forces gave a final warning to Japan in the Potsdam Declaration, calling for unconditional surrender or Japan would face "prompt and utter destruction."[^9] When Japan had not surrendered a week later the United States took action. On August 6, 1945 the United States dropped an atomic bomb on the city of Hiroshima. With an estimated population of 280,000 people, the initial explosion killed approximately 80,000 in a matter of minutes, leveling the city.[^10] Three days later, the United States made another attack, this time on Nagasaki, where approximately 75,000 people died immediately. In the following months, the two cities saw between 95,000 and 171,000 more deaths due to the bomb. The city of Hiroshima estimates that nearly 240,000 people were ultimately killed by the bombing of their city, either directly or indirectly.[^11] On August 14, Japan accepted the terms set forth in the Potsdam Declaration, officially signing the instrument of surrender on September 2, 1945, ending the war with Japan.[^12]
 
-{% include feature/item-figure.html objectid="hiroshima020;hiroshima11" caption="Northern sector as viewed from City Hall (unidentified city);Destroyed industrial area showing smoke stacks still standing. 0.51 mile from ground zero at Nagasaki"  %}
+{% include feature/item-figure.html objectid="hiroshima020;hiroshima011" caption="Northern sector as viewed from City Hall (Either Hiroshima or Nagasaki);Destroyed industrial area in Nagasaki" %}
 
 ## A Hope for Peace
 
