@@ -7,6 +7,8 @@ permalink: /about.html
 
 {% include feature/nav-menu.html sections="About the Collection" %} 
  
+# About the Exhibit
+
 December 7, 1941 the Japanese military bombed Pearl Harbor thus pulling the United States into World War II. Entering the war had drastic and unforeseen consequences on many living in the country. Not only were many people now preparing for war, but a sector of the population saw their rights infringed upon and were forced to relocate from their homes. Deemed a potential threat to the security of the United States, Italian and German immigrants, as well as those of Japanese ancestry living on the West Coast were relocated to incarceration and internment camps further inland, two of which were located in Idaho. Though Italian and German immigrants were also targeted, those of Japanese ancestry, including many American citizens, faced relocation in larger numbers. 
 
 This initial act of war not only had a direct impact on those of Japanese ancestry living on the West Coast, but would lead to the use of the atomic bomb on two Japanese cities, ultimately ending the war with Japan. After the war those who were forced from their homes in the United States had to readjust to life, many had lost their homes and possessions do to their incarceration and were concerned about returning home. Those hurt by the atomic bomb in Japan also had to rebuild and move on from the atrocities of war. 
