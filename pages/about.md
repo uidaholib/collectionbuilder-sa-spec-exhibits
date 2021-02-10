@@ -5,7 +5,7 @@ permalink: /about.html
 ---
 {% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About the Collection" %} 
+{% include feature/nav-menu.html sections="About the Exhibit;Executive Order 9066;Japanese Relocation to Idaho;Minidoka;Kooskia;Japanese Students and the University of Idaho;Advocating for Peace at the University of Idaho" %} 
  
 # About the Exhibit
 
@@ -14,6 +14,8 @@ December 7, 1941 the Japanese military bombed Pearl Harbor thus pulling the Unit
 This initial act of war not only had a direct impact on those of Japanese ancestry living on the West Coast, but would lead to the use of the atomic bomb on two Japanese cities, ultimately ending the war with Japan. After the war those who were forced from their homes in the United States had to readjust to life, many had lost their homes and possessions do to their incarceration and were concerned about returning home. Those hurt by the atomic bomb in Japan also had to rebuild and move on from the atrocities of war. 
 
 This exhibit explores the impact that World War II had not only on those of Japanese ancestry in the United States, but also those in Japan who survived and rebuilt after the use of the atomic bomb and the role Idaho played through it all. It looks at the atrocities of war and the resilience and hope of those who live through it. 
+
+The exhibit was put together by Courtney Berge, Archives and Exhibits Assistant in [Special Collections & Archives](https://www.lib.uidaho.edu/special-collections/).
 
 ## Executive Order 9066
 
@@ -48,7 +50,7 @@ The Kooskia Internment Camp was located at the confluence of Canyon Creek and th
 
 ## Japanese Students and the University of Idaho
 
-In March 1942, a month after Executive Order 9066 was enacted, and as Lieutenant General Dewitt began releasing public proclamations limiting the rights of the Issei and Nisei in militarized zones, students and educators alike questioned whether Nisei students would be able to finish their eduction. Several universities within the militarized zones had a large number of Nisei students. Both Lee Paul Sieg, president of the University of Washington, and Robert Gordon Sproul, president of the University of California, Berkley, spoke out against the relocation of students and worked to find ways to allow students to finish their studies [^8]
+In March 1942, a month after Executive Order 9066 was enacted, and as Lieutenant General Dewitt began releasing public proclamations limiting the rights of the Issei and Nisei in militarized zones, students and educators alike questioned whether Nisei students would be able to finish their education. Several universities within the militarized zones had a large number of Nisei students. Both Lee Paul Sieg, president of the University of Washington, and Robert Gordon Sproul, president of the University of California, Berkley, spoke out against the relocation of students and worked to find ways to allow students to finish their studies [^8]
 
 {% include feature/item-figure.html objectid="hiroshima059"  %}
 
