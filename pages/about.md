@@ -69,6 +69,7 @@ Due to the controversy that arose from the newspaper's false claims and the cens
 {% include feature/item-figure.html objectid="hiroshima075;hiroshima058"  %}
 
 ## The End of the War and Japan's Reconstruction
+{:id="the-end-of-the-war-and-japan-s-reconstruction" }
 
 ### The Atomic Bomb and End of the War
 
