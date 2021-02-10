@@ -5,7 +5,7 @@ permalink: /about.html
 ---
 {% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About the Exhibit;Executive Order 9066;Japanese Relocation to Idaho;Minidoka;Kooskia;Japanese Students and the University of Idaho;Advocating for Peace at the University of Idaho" %} 
+{% include feature/nav-menu.html sections="About the Exhibit;World War II and Japanese Incarceration;The End of the War and Japan's Reconstruction" %} 
  
 # About the Exhibit
 
@@ -13,11 +13,13 @@ December 7, 1941 the Japanese military bombed Pearl Harbor thus pulling the Unit
 
 This initial act of war not only had a direct impact on those of Japanese ancestry living on the West Coast, but would lead to the use of the atomic bomb on two Japanese cities, ultimately ending the war with Japan. After the war those who were forced from their homes in the United States had to readjust to life, many had lost their homes and possessions do to their incarceration and were concerned about returning home. Those hurt by the atomic bomb in Japan also had to rebuild and move on from the atrocities of war. 
 
-This exhibit explores the impact that World War II had not only on those of Japanese ancestry in the United States, but also those in Japan who survived and rebuilt after the use of the atomic bomb and the role Idaho played through it all. It looks at the atrocities of war and the resilience and hope of those who live through it. 
+This exhibit explores the impact that World War II had not only on those of Japanese ancestry in the United States, but also those in Japan who survived and rebuilt after the use of the atomic bomb and the role Idaho played through it all. It looks at the atrocities of war and the resilience and hope of those who live through it.
 
-The exhibit was put together by Courtney Berge, Archives and Exhibits Assistant in [Special Collections & Archives](https://www.lib.uidaho.edu/special-collections/).
+The exhibit was put together by Courtney Berge, Archives and Exhibits Assistant in [Special Collections & Archives](https://www.lib.uidaho.edu/special-collections/). The creation of the exhibit was prompted by the University's receipt of roof tiles from Hiroshima University. In researching for the exhibit, Berge could not ignore the materials she found regarding the treatment of those of Japanese descent in Idaho and the University during World War II. She broadened the initial scope of this exhibit to include Japanese relocation and the University of Idaho's policy regarding Japanese students during the war. 
 
-## Executive Order 9066
+## World War II and Japanese Incarceration
+
+### Executive Order 9066
 
 After some investigation, it had been reported to President Franklin D. Roosevelt in November 1941 that the majority of those with Japanese ancestry along the West Coast were loyal to the United States. Even with this report on February 19, 1942 President Roosevelt signed Executive Order 9066. This order allowed military commanders to exclude civilians from military zones, and ultimately resulted in the creation of "relocation" centers for those of Japanese descent, both foreign born (Issei) and American citizens (Nisei).[^1]
 
@@ -25,11 +27,11 @@ Executive Order 9066 was followed by several public proclamations made by Lieute
 
 {% include feature/item-figure.html objectid="hiroshima072" width="75" caption="On March 24, 1942, Public Proclamation No. 3 established a curfew for all persons of Japanese ancestry." %}
 
-## Japanese Relocation to Idaho
+### Japanese Relocation to Idaho
 
 Approximately 120,000 Issei and Nisei were affected by the forced relocation set into action by General DeWitt. Evacuees were ordered to report to temporary detention centers, called assembly centers. There were 15 assembly centers total spread throughout Washington, Oregon, California, and Arizona. Operated by the War Relocation Authority (WRA) the assembly centers were located on fairgrounds, horse tracks, and other makeshift facilities. While living in these centers, evacuees often faced food shortages and unsanitary conditions. For months, evacuees lived in these conditions until more permanent detention centers, called relocation centers, were finished being constructed further inland. These more permanent camps began receiving evacuees in May 1942, with the final transfer to relocation centers occurring in October 1942. [^3]
 
-### Minidoka 
+#### Minidoka 
 
 Idaho was home to one WRA relocation center in southern Idaho, near Hunt. The Minidoka War Relocation Center extended over 33,000 acres with 900 of those acres used to house, at it's peak approximately 9400 individuals incarcerated there. The remaining land was used either for administrative work or agriculture. [^4]
 
@@ -39,7 +41,7 @@ The camp closed in October 1945 and the land was later offered for homesteading 
 
 {% include feature/item-pdf-embed.html objectid="hiroshima093" %}
 
-### Kooskia 
+#### Kooskia 
 
 While the WRA operated several relocation centers throughout the country, the Immigration and Nationalization Service (INS) operated several internment camps, including one near Kooskia, Idaho. Unlike the relocation centers, these internment camps were used to detain "enemy aliens." These "enemy aliens" had been identified as potentially dangerous to national security, though many of the individuals were detained with little evidence to suggest they posed a threat to the United States.[^6] 
 
@@ -48,7 +50,7 @@ The Kooskia Internment Camp was located at the confluence of Canyon Creek and th
 
 {% include feature/item-figure.html objectid="hiroshima044" width="75" caption="Sign for the Japanese Internment camp located near Kooskia, Idaho" %}
 
-## Japanese Students and the University of Idaho
+### Japanese Students and the University of Idaho
 
 In March 1942, a month after Executive Order 9066 was enacted, and as Lieutenant General Dewitt began releasing public proclamations limiting the rights of the Issei and Nisei in militarized zones, students and educators alike questioned whether Nisei students would be able to finish their education. Several universities within the militarized zones had a large number of Nisei students. Both Lee Paul Sieg, president of the University of Washington, and Robert Gordon Sproul, president of the University of California, Berkley, spoke out against the relocation of students and worked to find ways to allow students to finish their studies [^8]
 
@@ -66,13 +68,15 @@ Due to the controversy that arose from the newspaper's false claims and the cens
 
 {% include feature/item-figure.html objectid="hiroshima075;hiroshima058"  %}
 
-## The Atomic Bomb and End of the War
+## The End of the War and Japan's Reconstruction
+
+### The Atomic Bomb and End of the War
 
 On July 26, 1945 after nearly 3 years of war with Japan, President Harry S. Truman and the other leaders of the Allied forces gave a final warning to Japan in the Potsdam Declaration, calling for unconditional surrender or Japan would face "prompt and utter destruction."[^9] When Japan had not surrendered a week later the United States took action. On August 6, 1945 the United States dropped an atomic bomb on the city of Hiroshima. With an estimated population of 280,000 people, the initial explosion killed approximately 80,000 in a matter of minutes, leveling the city.[^10] Three days later, the United States made another attack, this time on Nagasaki, where approximately 75,000 people died immediately. In the following months, the two cities saw between 95,000 and 171,000 more deaths due to the bomb. The city of Hiroshima estimates that nearly 240,000 people were ultimately killed by the bombing of their city, either directly or indirectly.[^11] On August 14, Japan accepted the terms set forth in the Potsdam Declaration, officially signing the instrument of surrender on September 2, 1945, ending the war with Japan.[^12]
 
 {% include feature/item-figure.html objectid="hiroshima020;hiroshima011" caption="Northern sector as viewed from City Hall (Either Hiroshima or Nagasaki);Destroyed industrial area in Nagasaki" %}
 
-## A Hope for Peace
+### A Hope for Peace
 
 Years after the atomic bombing of Hiroshima and Nagasaki, the University of Idaho received a letter from the president of Hiroshima University, Tatsuo Morito. In his letter, he described the city of Hiroshima's desire to be designated an "Eternal Peace Commemoarting[*sic*] City" and he asked the university to help during their reconstruction. 
 
@@ -82,7 +86,7 @@ Though, as Morito pointed out, his request would not have a large economic impac
 
 {% include feature/item-pdf-embed.html objectid="hiroshima033" %}
 
-## Advocating for Peace at the University of Idaho
+### Advocating for Peace at the University of Idaho
 
 Even before receiving President Morito's letter, the University of Idaho has had a similar view in how to promote peace. Now called the Borah Foundation, in 1929 the William Borah Outlawry of War Foundation was established to honor and continue the work of Idaho Senator William Borah on behalf of peace. Nearly since it's inception, the Borah Foundation has regularly held programs to educate and advocate for peace in the world. The first program brought peace and human rights advocate Eleanor Roosevelt to campus which culminated with the planting of a tree on the university campus, one that still stands today. Over the years, the Foundation has continued to hold programs devoted to understanding the causes of war and how to establish a lasting peace through the annual Borah Symposium. This has often culminated in the planting of trees in the University of Idaho Arboretum which now make up the Borah International Peace Grove. [^13]
 
