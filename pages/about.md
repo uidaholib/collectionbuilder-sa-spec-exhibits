@@ -103,7 +103,7 @@ Even before receiving President Morito's letter, the University of Idaho has had
 
 [^2]: [Japanese-American Internment During World War II](https://perma.cc/34JB-EZ5Y), National Archives and Records Administration (NARA), https://www.archives.gov/education/lessons/japanese-relocation. Accessed 22 September 2020.
 
-[^3]: [Assembly Centers](https://perma.cc/CU2W-ATHN), Densho Encyclopedia, https://encyclopedia.densho.org/Assembly_centers/#:~:text=%22Assembly%20centers%22%20were%20makeshift%20concentration,more%20permanent%20inland%20concentration%20camps. Accessed 19 January 2021.
+[^3]: [Assembly Centers](https://perma.cc/CU2W-ATHN), Densho Encyclopedia, https://encyclopedia.densho.org/Assembly_centers. Accessed 19 January 2021.
  
 [^4]: [Life at Minidoka](https://perma.cc/EWJ2-K45T) National Park Service, https://www.nps.gov/miin/learn/historyculture/life-at-minidoka.htm. Accessed 19 January 2021.
 
@@ -117,7 +117,7 @@ Even before receiving President Morito's letter, the University of Idaho has had
 
 [^9]: [Potsdam Declaration](https://perma.cc/X3W3-LLWC), Atomic Heritage Foundation, https://www.atomicheritage.org/key-documents/potsdam-declaration. Accessed 1 October 2020.
 
-[^10]: [Fact File : Hiroshima and Nagasaki](https://perma.cc/56P7-596Q), WW2 People's War, https://www.bbc.co.uk/history/ww2peopleswar/timeline/factfiles/nonflash/a6652262.shtml#:~:text=On%20the%20morning%20of%206,80%2C000%20people%20were%20killed%20instantly. Accessed 1 October 2020. 
+[^10]: [Fact File : Hiroshima and Nagasaki](https://perma.cc/56P7-596Q), WW2 People's War, https://www.bbc.co.uk/history/ww2peopleswar/timeline/factfiles/nonflash/a6652262.shtml. Accessed 1 October 2020. 
 
 [^11]: [Bombings of Hiroshima and Nagasaki - 1945](https://perma.cc/HT2T-LCJY), Atomic Heritage Foundation, https://www.atomicheritage.org/history/bombings-hiroshima-and-nagasaki-1945. Accessed 1 October 2020.
 
