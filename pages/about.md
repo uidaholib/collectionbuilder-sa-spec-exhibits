@@ -14,6 +14,8 @@ permalink: /about.html
 
 This collection consists of eleven photographs from the [Ernie Day Photographs](http://archiveswest.orbiscascade.org/ark:/80444/xv39776) housed in the [University of Idaho Library Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/). These photographs depict just a few of the many mountains and lakes found in Idaho, particularly those found within the Sawtooth National Recreation Area.  
 
+The digital collection was created by Courtney E. Berge.
+
 {% include feature/item-figure.html objectid="ernieday009" %}
 
 # Ernie Day 
