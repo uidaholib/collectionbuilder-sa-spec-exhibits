@@ -1,3 +1,26 @@
+# Long Range Campus Development Plans
+
+These files were transferred from Brian Kelley as Web Technician for the Division of Finance and Administration in May 2021.
+They come from a page on Facilities Services that they want to remove and would like to see as a library digital collection instead.
+
+Original pages:
+
+- https://www.uidaho.edu/infrastructure/facilities/aes/campus-development-plan
+- https://www.uidaho.edu/infrastructure/facilities/aes/campus-development-plan/illustrative-plan
+- https://www.uidaho.edu/infrastructure/facilities/aes/campus-development-plan/history
+
+Archive versions:
+
+- https://perma.cc/3UGY-HUN4
+- https://perma.cc/EZ3M-GRWA
+- https://perma.cc/GXV6-S95P
+
+The PDF plans are generated from an AutoCAD drawing.
+
+The images are simply taken from the website.
+Ann  Ulliman (CADD Center Manager, AES/Facilities) reported that she was unable "to find the images located in the Facilities Archive so am unaware of where the originals are, or if we even still have them".
+
+
 # collectionbuilder-sa-spec-exhibits
 
 A customized version of CollectionBuilder-SA used to build standalone exhibit sites for University of Idaho SPEC.
