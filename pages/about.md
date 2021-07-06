@@ -12,7 +12,7 @@ permalink: /about.html
 
 ## Introduction
 
-*Text from introduction to the [2000 Long-Range Campus Development Plan]({{ '/digital/lrcdp/items/lrcdp-2000.html' | relative_url }}) by past U of I president Bob Hoover:*
+*Text from introduction to the [2000 Long-Range Campus Development Plan]({{ '/items/lrcdp-2000.html' | relative_url }}) by past U of I president Bob Hoover:*
 
 When John Charles Olmsted developed the first comprehensive plan for the University of Idaho campus in 1908, he did so with a clear, reverent sense of what a "university" should look like and a deep understanding of the interconnectedness of people and place.
 
