@@ -1,7 +1,7 @@
 ---
 title: Subjects
 layout: subjects
-permalink: /subjects.html
+# permalink: /subjects.html
 ---
 
 ## Browse Subjects

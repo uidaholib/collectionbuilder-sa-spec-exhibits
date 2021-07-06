@@ -1,7 +1,7 @@
 ---
 title: CollectionBuilder
 layout: page
-permalink: /tech.html
+# permalink: /tech.html
 ---
 
 # About CollectionBuilder
