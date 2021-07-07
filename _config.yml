@@ -10,7 +10,7 @@
 # site domain, full URL to the production location of your collection
 url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /digital/hiroshima
+baseurl: /digital/shitamae
 # location of code, the full url to your github repository
 source-code: https://github.com/uidaholib/collectionbuilder-sa-spec-exhibits
 # shared assets
@@ -20,9 +20,9 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Idaho, World War II...
+title: Shitamae Family Letters
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: The After Effects of Pearl Harbor 
+tagline: Letters from Japanese Incarceration Camps during World War II
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "On December 7th, 1941, Japan's surprise military attack on the Pearl Harbor military base in Hawaii not only was the catalyst for the United States entering World War II, but also had a drastic effect on the lives of Japanese immigrants and Japanese-Americans living in the United States. This exhibit looks at the experiences of the Japanese communities in and around Idaho during World War II."
@@ -39,13 +39,13 @@ organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwh
 #
 # provide location of the digital objects folder,
 # If using local folder, dir name with proceeding slash. If using external web location, provide full URL
-objects: https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima
+objects: https://webpages.uidaho.edu/library/spec/development_objects_folders/shitamae
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: hiroshima
+metadata: shitamae
 # page generation settings 
 # "data" value must be the name of the metadata file (other values should be not be changed)
 page_gen:
-  - data: 'hiroshima'
+  - data: 'shitamae'
     template: 'items'
     name: 'objectid'
     dir: 'items'
