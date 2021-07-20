@@ -8,13 +8,14 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;Sources" %}
 
 ## About the Collection
 
-{{ site.description | default: site.tagline}}
+The General Catalog is the primary source for all degree requirements, academic regulations, course descriptions, and services offered by the University. A new General Catalog is published annually and is effective starting in the summer. Every effort is made to ensure the Catalog is accurate as of the date of publication.[^1]
 
-The above is default information generated from the site description. If you would like to learn more about 
+To view current General Catalogs, see the [current Catalogs](https://www.uidaho.edu/registrar/classes/catalogs) website.
 
-<!-- IMPORTANT!!! DELETE everything below this comment (and this comment) when you are finished editing this page for your collection. The included file below includes instructions for inserting features into your about page. They will show up on your collection's about page until you delete it.  -->
-{% include feature/abouttheabout.md %}
+# Sources
+
+[^1]: [Schedule & Catalog, University of Idaho](https://www.uidaho.edu/registrar/classes)
