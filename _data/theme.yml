@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: coursecatalogs020
+featured-image: https://webpages.uidaho.edu/library/spec/development_objects_folders/coursecatalogs/ua2011-30_1994.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 12em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
@@ -28,7 +28,7 @@ featured-locations-max: 3 # set number of top locations to display if auto gener
 #
 # Featured image on About page - if left blank, CB will use image featured on the home page
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-about-featured-image: coursecatalogs020
+about-featured-image: https://webpages.uidaho.edu/library/spec/development_objects_folders/coursecatalogs/ua2011-30_1994.jpg
 
 ##########
 # BROWSE PAGE

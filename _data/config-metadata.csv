@@ -3,7 +3,6 @@ title,Title,,DCTERMS.title,headline
 creator,Creator,,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
 description,Description,,DCTERMS.description,description
-subject,Subjects,true,DCTERMS.subject,keywords
 location,Location,,,contentLocation
 latitude,Latitude
 longitude,Longitude
