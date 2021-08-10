@@ -6,4 +6,5 @@ subject,,true
 location,,true
 location-received,,true
 format-original,,,true
+description,,,true
 identifier,,,true,Identifier
