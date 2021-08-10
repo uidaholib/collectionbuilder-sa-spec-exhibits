@@ -1,12 +1,14 @@
 field,display_name,browse_link,dc_map,schema_map
 title,Title,,DCTERMS.title,headline
-creator,Creator,,DCTERMS.creator,creator
+creator,Creator,true,DCTERMS.creator,creator
+recipient,Recipient,true
 date,Date Created,,DCTERMS.created,dateCreated
+date-is-approximate,Date Is Approximate?
 description,Description,,DCTERMS.description,description
 subject,Subjects,true,DCTERMS.subject,keywords
-location,Location,,,contentLocation
-latitude,Latitude
-longitude,Longitude
+location,Location Created,true,,contentLocation
+location-received,Location Received,true
+format-original,Original Format,true
 source,Source
 identifier,Source Identifier
 type,Type,,DCTERMS.type

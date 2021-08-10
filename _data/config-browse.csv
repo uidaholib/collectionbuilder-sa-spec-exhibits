@@ -1,6 +1,9 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
+recipient,Recipient
 subject,,true
 location,,true
+location-received,,true
+format-original,,,true
 identifier,,,true,Identifier
