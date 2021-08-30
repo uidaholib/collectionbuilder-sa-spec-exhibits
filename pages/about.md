@@ -32,5 +32,4 @@ The camp closed in October 1945 and the land was later offered for homesteading 
 [^2]: [Japanese American Incarceration during World War II](https://perma.cc/7962-PWMB) Friends of Minidoka, http://www.minidoka.org/history-world-war-two-internment. Accessed 27 January 2021.
 
 
-<!-- IMPORTANT!!! DELETE everything below this comment (and this comment) when you are finished editing this page for your collection. The included file below includes instructions for inserting features into your about page. They will show up on your collection's about page until you delete it.  -->
-{% include feature/abouttheabout.md %}
+
