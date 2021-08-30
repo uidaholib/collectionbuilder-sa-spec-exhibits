@@ -8,17 +8,13 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+
 
 ## About the Collection
 
-Shihei (George) Shitamae was incarcerated at the Sante Fe Detention Center in Sante Fe, New Mexico during World War II. The letters in this collection were written by his family incarcerated at Camp Harmony, a temporary detention center located in Puyallup, Washington, and the Minidoka Incarceration Camp in Hunt, Idaho. The letters contain information about family members, activities, and other aspects of life during incarceration.
 
-{{ site.description | default: site.tagline}}
+These letters in this collection and other materials relating to Shihei (George) Shitamae can be found in the [George Shihei Shitamae papers](https://archiveswest.orbiscascade.org/ark:/80444/xv302637/). Shihei (George) Shitamae was incarcerated at the Sante Fe Detention Center in Sante Fe, New Mexico during World War II. The letters in this collection were written by his family incarcerated at Camp Harmony, a temporary detention center located in Puyallup, Washington, and the Minidoka Incarceration Camp in Hunt, Idaho. The letters contain information about family members, activities, and other aspects of life during incarceration.
 
-## George Shihei Shitamae Papers
-
-These letters and other materials relating to Shihei (George) Shitamae can be found in the [George Shihei Shitamae papers](https://archiveswest.orbiscascade.org/ark:/80444/xv302637/)
 
 ## Minidoka Incarceration Camp
 
