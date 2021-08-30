@@ -22,12 +22,12 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # title of site appears in banner
 title: Shitamae Family Letters
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Letters from Japanese Incarceration Camps during World War II
+tagline: Letters from Minidoka Incarceration Camp during World War II
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "On December 7th, 1941, Japan's surprise military attack on the Pearl Harbor military base in Hawaii not only was the catalyst for the United States entering World War II, but also had a drastic effect on the lives of Japanese immigrants and Japanese-Americans living in the United States. This exhibit looks at the experiences of the Japanese communities in and around Idaho during World War II."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Courtney Berge
+author: StrikkerGodt
 # Organization branding
 organization-name: "Digital Initiatives, University of Idaho Library"
 organization-link: https://www.lib.uidaho.edu/digital/
