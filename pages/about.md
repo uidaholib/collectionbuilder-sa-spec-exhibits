@@ -46,10 +46,10 @@ Smith's influence is also evident in film and TV, from *Star Trek* and *Star War
 As a chemist, Smith was situated firmly within the tradition of Jules Verne and H. G. Wells in that he made an effort to provide at least some plausible science in his scientific romances. 
 In this, he differed from some other writers of the time who wrote "science fantasy" rather than science fiction.
 
-{% include feature/item-pdf-embed.html objectid="dodson0093" caption="Doc Smith discusses his choice to be a chemist in a letter to Dodson" width="50" %}
+{% include feature/item-pdf-embed.html objectid="dodson0093" caption="Doc Smith discusses his decision to be a chemist in a letter to Dodson" width="50" %}
 
 When John W. Campbell Jr. became editor of the science fiction magazine *Astounding* in 1937, his editorial policy called for realism and scientific verisimilitude. 
-With his engineering background and his appreciation of "hard" science fiction stories written by fellow writers with science backgrounds, Campbell ushered in what is now called science fiction's "[golden age](https://en.wikipedia.org/wiki/Golden_Age_of_Science_Fiction)." 
+With his engineering background and his appreciation of "hard" science fiction stories written by fellow writers with science backgrounds, Campbell ushered in what is now considered science fiction's "[golden age](https://en.wikipedia.org/wiki/Golden_Age_of_Science_Fiction)." 
 The need to employ at least somewhat plausible science while telling the story is a connecting thread throughout the correspondence between Smith and Dodson.
 
 ## About Richard Dodson
