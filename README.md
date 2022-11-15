@@ -5,6 +5,8 @@ A customized version of CollectionBuilder-SA used to build standalone exhibit si
 - uiblackhistory
 - hiroshima
 - 1918flu
+- ernieday
+- lrcdp
 
 Objects workflow:
 
