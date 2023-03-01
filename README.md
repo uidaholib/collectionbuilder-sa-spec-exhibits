@@ -1,5 +1,7 @@
 # collectionbuilder-sa-spec-exhibits
 
+> As of February, 2023, all U of I digital collection branches in this repository have been moved to branches in [UIdaho collectionbuilder-csv-template](https://github.com/uidaholib/collectionbuilder-csv-template), and will be maintained there. This repository has been archived and is no longer in use.
+
 A customized version of CollectionBuilder-SA used to build standalone exhibit sites for University of Idaho SPEC.
 
 - uiblackhistory
